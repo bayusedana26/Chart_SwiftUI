@@ -34,6 +34,7 @@ struct ContentView: View {
         VStack(alignment: .leading, spacing: 5.0) {
             Text("Youtube Views")
                 .font(.title)
+                .fontWeight(.bold)
             
             Text("Total: \(totalViews.formatted(.number))")
                 .fontWeight(.semibold)
