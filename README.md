@@ -2,7 +2,7 @@
 
 A simple SwiftUI project demonstrating how to use the `Charts` framework to visualize data using bar charts.
 
-[Watch the Demo](Chart_SwiftUI/result/test.mp4)
+[Watch the Demo](Chart_SwiftUI/result/test.gif)
 
 ## Features
 - Displays YouTube views data in a bar chart.
